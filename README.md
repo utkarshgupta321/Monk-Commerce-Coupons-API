@@ -1,5 +1,10 @@
 # Monk Commerce – Coupons Management API
 
+## GitHub Repository
+[https://github.com/utkarshgupta321/Monk-Commerce-Coupons-API](https://github.com/utkarshgupta321/Monk-Commerce-Coupons-API)
+
+---
+
 ## Overview
 This project is a **RESTful Coupons Management API** for an e-commerce platform.  
 It enables the creation, retrieval, updating, deletion, and application of discount coupons on shopping carts.  
@@ -86,7 +91,7 @@ Built with **Spring Boot 3.1**, **Spring Data JPA**, and **H2 in-memory database
 ## Running the Application
 1. Clone repo:  
    ```bash
-   git clone https://github.com/utkarshgupta321/monk-coupons-api.git
+   git clone https://github.com/utkarshgupta321/Monk-Commerce-Coupons-API.git
    cd monk-coupons-api
    ```
 
